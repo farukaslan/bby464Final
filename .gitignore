@@ -1,0 +1,1650 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://webprotege.stanford.edu/project/BUvNPngBVKN4m05JCAC6w#"
+     xml:base="http://webprotege.stanford.edu/project/BUvNPngBVKN4m05JCAC6w"
+     xmlns:webprotege="http://webprotege.stanford.edu/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <owl:Ontology rdf:about="http://webprotege.stanford.edu/project/BUvNPngBVKN4m05JCAC6w"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/description -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/description"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/title -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/title"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7HeNoprAcJabJlgmdTPVPa -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R7HeNoprAcJabJlgmdTPVPa">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label xml:lang="en">Type</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8DmckGFozxEw0My7mCbHkx -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R8DmckGFozxEw0My7mCbHkx">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label xml:lang="en">Transmission</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8db8dutnrFKj2cED9dcgWC -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R8db8dutnrFKj2cED9dcgWC">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label xml:lang="en">Clutch</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R6OveY3PPSsCv2Sx9aHM3x -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R6OveY3PPSsCv2Sx9aHM3x">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label xml:lang="en">Maximum power</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8F19sPLVcuy2KwsGM6HZZI -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R8F19sPLVcuy2KwsGM6HZZI">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label xml:lang="en">Weight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9lZoYchBCuJYSBri1KHsm -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R9lZoYchBCuJYSBri1KHsm">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label xml:lang="en">Top speed</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R3LxYQ5LD9oAULHWzcs2CG -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R3LxYQ5LD9oAULHWzcs2CG">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>1952</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/all-past-model/#decade-1950"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7xHV6pTLTclGSe9lhOg3bm -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7xHV6pTLTclGSe9lhOg3bm">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>1956</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/all-past-model/#decade-1950"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R86mYQKVN0GVbZd8pRkqAwO -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R86mYQKVN0GVbZd8pRkqAwO">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>1954</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/all-past-model/#decade-1950"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8krb4CVUsGYpFBolIynrCt -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8krb4CVUsGYpFBolIynrCt">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>1959</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/all-past-model/#decade-1950"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8sh2tEHuv2VnU1EZ47jNJT -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8sh2tEHuv2VnU1EZ47jNJT">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>1947</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/all-past-model/#decade-1940"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9uPWdwfrV4HCqAXKX9NLuv -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9uPWdwfrV4HCqAXKX9NLuv">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>1953</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/all-past-model/#decade-1950"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB1ogBI78bcS5c0kc79qsAT -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RB1ogBI78bcS5c0kc79qsAT">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>1950</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/all-past-model/#decade-1950"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBYhOATUbcfcoDSPOyXdRUk -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBYhOATUbcfcoDSPOyXdRUk">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>1948</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/all-past-model/#decade-1940"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBdo9S0uzHs9DFYH2qzfNh2 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBdo9S0uzHs9DFYH2qzfNh2">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>1958</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/all-past-model/#decade-1950"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCAs6q2DAjzSFLw9AzdSwmU -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCAs6q2DAjzSFLw9AzdSwmU">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>1960</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/all-past-model/#decade-1960"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDT7j3twmZOKLwFhHm3HBXq -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDT7j3twmZOKLwFhHm3HBXq">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>1961</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/all-past-model/#decade-1960"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDTSHW0ttyhjOzOiS8nuZPZ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDTSHW0ttyhjOzOiS8nuZPZ">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>1951</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/all-past-model/#decade-1950"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDcIzYtRrSA3QuDbefVR0oV -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDcIzYtRrSA3QuDbefVR0oV">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>1957</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/all-past-model/#decade-1950"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RIb7WNlpf9yBaR3lMXiA4p -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RIb7WNlpf9yBaR3lMXiA4p">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>1963</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/all-past-model/#decade-1960"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RR6chWTNdsPCOiYGZgs2e9 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RR6chWTNdsPCOiYGZgs2e9">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>1955</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/all-past-model/#decade-1950"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RpJNX21dDNVuuzL7n1OXqM -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RpJNX21dDNVuuzL7n1OXqM">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>1962</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/all-past-model/#decade-1960"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#Thing -->
+
+    <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#Thing">
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ferrari&apos;nin kuruluşundan hisselerinin satılığa çıkarılışına kadar üretilen, tüm hisselerin Ferrari&apos;ye ait olduğu zamanda üretilen arabala modelleri</dc:description>
+        <dc:title xml:lang="tr">Ferrari&apos;nin 1947-1963 arası ürettiği araba modelleri</dc:title>
+    </rdf:Description>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R2XlsUMIxuYFwpBfBXHypW -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R2XlsUMIxuYFwpBfBXHypW">
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/Re6CAiNRScChFMFS8kqBcN"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R8K6NR32csl38rnz05XI4S7"/>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI xml:lang="tr">1200 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm xml:lang="tr">186 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label xml:lang="tr">342 America</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R5N83rK2I43Hhqk30BKRv5 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R5N83rK2I43Hhqk30BKRv5">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RB1ogBI78bcS5c0kc79qsAT"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R8K6NR32csl38rnz05XI4S7"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">162 kW (220 hp) at 6000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI xml:lang="tr">900 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm xml:lang="tr">240 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label xml:lang="tr">340 Amerika</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/340-america/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R71KWzxeaCVZIu4Uf4AFaww -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R71KWzxeaCVZIu4Uf4AFaww">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R86mYQKVN0GVbZd8pRkqAwO"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">176 kW (240 hp) at 7200 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">850 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">250 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>750 Monza</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/750-monza/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7AZILKhNYUaL02bjeh4VUi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7AZILKhNYUaL02bjeh4VUi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8sh2tEHuv2VnU1EZ47jNJT"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R8K6NR32csl38rnz05XI4S7"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">92 kW (125 hp) at 6500 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">159S</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/159-s/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7HgJA1qsS41Vd0z2HajH24 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7HgJA1qsS41Vd0z2HajH24">
+        <rdfs:label>87 kW 118 hp at 6800 rpm
+</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7KJYDIyGDumpiVbUqPGk8J -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7KJYDIyGDumpiVbUqPGk8J">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9uPWdwfrV4HCqAXKX9NLuv"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">206 kW (280 hp) at 6600 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI xml:lang="tr">850 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">282 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">340 MM</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/340-mm/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7LMDasJUu4J07D3rjRyvcS -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7LMDasJUu4J07D3rjRyvcS">
+        <rdfs:label>199 kW (270 hp) at 7200 rpm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7VBuMM9mgwkVhaFxLoGv6n -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7VBuMM9mgwkVhaFxLoGv6n">
+        <rdfs:label>121 kW (165 hp) at 7000 rpm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7VfoqilDmXu2wsVS4FN18N -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7VfoqilDmXu2wsVS4FN18N">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RpJNX21dDNVuuzL7n1OXqM"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">195 kW (265 hp) at 7000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">660 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>268 SP</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/268-sp/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7j6tLFMeYupkwoPrW7ychM -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7j6tLFMeYupkwoPrW7ychM">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RR6chWTNdsPCOiYGZgs2e9"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243 kW (330 hp) at 5800 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">850 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">280 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>735 LM</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/735-lm/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7lGbxD1b4YnLUof7DCQS7m -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7lGbxD1b4YnLUof7DCQS7m">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBYhOATUbcfcoDSPOyXdRUk"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/Re6CAiNRScChFMFS8kqBcN"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9QnieXFGnQ3gP0LbesXH4p"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">66 kW (90 hp) at 5,600 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">900 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">150 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">166 Inter</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/166-inter/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7ocfImJVSHzkMt5X7OXsxm -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7ocfImJVSHzkMt5X7OXsxm">
+        <rdfs:label>	4-speed + reverse</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7w9Ntf1bErmbwrRXliMjSc -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7w9Ntf1bErmbwrRXliMjSc">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9uPWdwfrV4HCqAXKX9NLuv"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">176 kW (240 hp) at 7200 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">900 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">250 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">250 MM</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/250-mm/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R87Kg7gSKEBQNtZU2JTvurK -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R87Kg7gSKEBQNtZU2JTvurK">
+        <rdfs:label>125 S</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R89IOin9uejZUxG8dp0nE77 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R89IOin9uejZUxG8dp0nE77">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7xHV6pTLTclGSe9lhOg3bm"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/RD0i0LMxQND4N4DUmGNjlL2"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/RB4vx5YmknGlVn2kEIwaOWm"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">176 kW (240 hp) at 7000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1050 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">252 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>250 GT Berlinetta</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/250-gt-berlinetta/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R89esdKBFRXSGKHOfpCtSPh -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R89esdKBFRXSGKHOfpCtSPh">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9uPWdwfrV4HCqAXKX9NLuv"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/RB4vx5YmknGlVn2kEIwaOWm"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">125 kW (170 hp) at 7000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">720 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">236 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">500 Mondial</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/500-mondial/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8I1KFQCocxjThixVzakXiR -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8I1KFQCocxjThixVzakXiR">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9uPWdwfrV4HCqAXKX9NLuv"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">250 kW (340 hp) at 7000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">900 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">289 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>375 MM</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/375-mm/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8K6NR32csl38rnz05XI4S7 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8K6NR32csl38rnz05XI4S7">
+        <rdfs:label>single plate</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8MVuMkNGA6GORjvbkOWiML -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8MVuMkNGA6GORjvbkOWiML">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9uPWdwfrV4HCqAXKX9NLuv"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/Re6CAiNRScChFMFS8kqBcN"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/RB4vx5YmknGlVn2kEIwaOWm"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">221 kW (300 hp) at 6300 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1150 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">250 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">375 America</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/375-america/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8N3btnTujn0Kuw7SJZVWIf -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8N3btnTujn0Kuw7SJZVWIf">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RpJNX21dDNVuuzL7n1OXqM"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 kW (260 hp) at 6800 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">620 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>286 SP</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/286-sp/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8WzNsftupA3WLvPx2gcexX -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8WzNsftupA3WLvPx2gcexX">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBdo9S0uzHs9DFYH2qzfNh2"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">318 kW (432 hp) at 8000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>412 S</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/412-s/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8X7OX8r1EskKwgrP9W4iCb -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8X7OX8r1EskKwgrP9W4iCb">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCAs6q2DAjzSFLw9AzdSwmU"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">184 kW (250 hp) at 7500 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">640 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>Dino 246 S</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/dino-246-s/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE">
+        <rdfs:label>5-speed + reverse</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8gLvrhtu9xpBky7A52aiJB -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8gLvrhtu9xpBky7A52aiJB">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7xHV6pTLTclGSe9lhOg3bm"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">206 kW (280 hp) at 6000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">860 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">260 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>860 Monza</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/860-monza/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8lpJGlbWR53AEO6C2PWmA5 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8lpJGlbWR53AEO6C2PWmA5">
+        <rdfs:label>96 kW (130 hp) at 6500 rpm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8m6MHF3Q4oi8vCbuKUwa4Q -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8m6MHF3Q4oi8vCbuKUwa4Q">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RB1ogBI78bcS5c0kc79qsAT"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">125 kW (170 hp) at 7000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">720 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">195 S</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/195-s/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8nMx7ZZZ42zE9MyQQoV9FO -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8nMx7ZZZ42zE9MyQQoV9FO">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R3LxYQ5LD9oAULHWzcs2CG"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R8K6NR32csl38rnz05XI4S7"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">169 kW (230 hp) at 7500 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">850 kg (dry)</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">250 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">250 S</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/250-s/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8nmjYJSrogphepoEuO1u9 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8nmjYJSrogphepoEuO1u9">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDcIzYtRrSA3QuDbefVR0oV"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">265 kW (360 hp) at 7800 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">880 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">290 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>315 S</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/315-s/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8qyGxyeHCIx2YTEgoM6sX4 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8qyGxyeHCIx2YTEgoM6sX4">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBdo9S0uzHs9DFYH2qzfNh2"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">221 kW (300 hp) at 7600 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>Dino 296 S</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/dino-296-s/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R95FpvEcRIBy2upI2nxjyRv -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R95FpvEcRIBy2upI2nxjyRv">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RpJNX21dDNVuuzL7n1OXqM"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/RD0i0LMxQND4N4DUmGNjlL2"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9QnieXFGnQ3gP0LbesXH4p"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">176 kW (240 hp) at 7500 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1020 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">240 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>250 GT Berlinetta lusso</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/250-gt-berlinetta-lusso/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO">
+        <rdfs:label>SPORT PROTOTYPES</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9QnieXFGnQ3gP0LbesXH4p -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9QnieXFGnQ3gP0LbesXH4p">
+        <rdfs:label>single-plate</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9gY80jod7CwDx8D3YWqzjr -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9gY80jod7CwDx8D3YWqzjr">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7xHV6pTLTclGSe9lhOg3bm"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/RB4vx5YmknGlVn2kEIwaOWm"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">162 kW (220 hp) at 6200 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">730 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">250 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>625 LM</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/625-lm/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9lUaxlM2KflSCFSWJj0HBy -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9lUaxlM2KflSCFSWJj0HBy">
+        <rdfs:label>206 kW (280 hp) at 6600 rpm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9nyMPfBmJAd3FoB4HN3lEB -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9nyMPfBmJAd3FoB4HN3lEB">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R3LxYQ5LD9oAULHWzcs2CG"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R8K6NR32csl38rnz05XI4S7"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">154 kW (210 hp) at 7200 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">850 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">230 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">225 S</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/225-s/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9qKZDSYKyD7FocUwGS1nn7 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9qKZDSYKyD7FocUwGS1nn7">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDcIzYtRrSA3QuDbefVR0oV"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/RB4vx5YmknGlVn2kEIwaOWm"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">132 kW (180 hp) at 7000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">680 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">245 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>500 TRC</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/500-trc/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy">
+        <rdfs:label>multi-plate</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9sLND1LFEKVnAymx045jCT -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9sLND1LFEKVnAymx045jCT">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7xHV6pTLTclGSe9lhOg3bm"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">250 kW (340 hp) at 6200 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1200 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">280 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>410 S</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/410-s/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB2jy3WQbUYuN2tvlPeeLeW -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RB2jy3WQbUYuN2tvlPeeLeW">
+        <rdfs:label>125 kW (170 hp) at 7000 rpm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB4sWh9fmWjay2tCHh3QzhB -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RB4sWh9fmWjay2tCHh3QzhB">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDcIzYtRrSA3QuDbefVR0oV"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">287 kW (390 hp) at 7400 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">880 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>335 S</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/335-s/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB4vx5YmknGlVn2kEIwaOWm -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RB4vx5YmknGlVn2kEIwaOWm">
+        <rdfs:label>twin-plate</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBA1MjQu7LPqtO8qSPZroEg -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBA1MjQu7LPqtO8qSPZroEg">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RpJNX21dDNVuuzL7n1OXqM"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/RD0i0LMxQND4N4DUmGNjlL2"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9QnieXFGnQ3gP0LbesXH4p"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">221 kW (300 hp) at 7400 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">880 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">280 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>250 GTO</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/250-gto/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBIOz9rPhGNgwAUZBwlalTg -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBIOz9rPhGNgwAUZBwlalTg">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8sh2tEHuv2VnU1EZ47jNJT"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9QnieXFGnQ3gP0LbesXH4p"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">87 kW (118 hp) at 6800 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">650 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">210 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">125S</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/125-s/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBLKV7jB7TKJzSHbHOnkpOj -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBLKV7jB7TKJzSHbHOnkpOj">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7xHV6pTLTclGSe9lhOg3bm"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">235 kW (320 hp) at 7200 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">880 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">280 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>290 MM</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/290-mm/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBWBKkRhTaDPMVU03Km1MT3 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBWBKkRhTaDPMVU03Km1MT3">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R3LxYQ5LD9oAULHWzcs2CG"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">206 kW (280 hp) at 6600 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">900 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">282 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">340 Mexico</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/340-mexico/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBXuXboiT3enctwlTBDkE3a -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBXuXboiT3enctwlTBDkE3a">
+        <rdfs:label>169 kW (230 hp) at 7500 rpm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBZtJFlMnJ4qpkmwxThCjpP -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBZtJFlMnJ4qpkmwxThCjpP">
+        <rdfs:label>96 kW (130 hp) at 6000 rpm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBhZtW57O1xYDT8WjJmMN9L -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBhZtW57O1xYDT8WjJmMN9L">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9uPWdwfrV4HCqAXKX9NLuv"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/Re6CAiNRScChFMFS8kqBcN"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/RB4vx5YmknGlVn2kEIwaOWm"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">147 kW (200 hp) at 6300 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1150 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">218 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">250 Europa</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/250-europa/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBjYAGbnbRZlxpnCwlKGQ3M -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBjYAGbnbRZlxpnCwlKGQ3M">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDTSHW0ttyhjOzOiS8nuZPZ"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/Re6CAiNRScChFMFS8kqBcN"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R8K6NR32csl38rnz05XI4S7"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">110 kW (150 hp) at 6500 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1000 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">212 Inter</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/212-inter/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBpzD8iF6B29qLgJKYRS95n -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBpzD8iF6B29qLgJKYRS95n">
+        <rdfs:label>162 kW (220 hp) at 6000 rpm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBsubptySFjAmP8sCVyWPGb -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBsubptySFjAmP8sCVyWPGb">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDTSHW0ttyhjOzOiS8nuZPZ"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9QnieXFGnQ3gP0LbesXH4p"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">121 kW (165 hp) at 7000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">850 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">220 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">212 Export</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/212-export/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBu86lNa0Kh72EcGHfcfgW1 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBu86lNa0Kh72EcGHfcfgW1">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RpJNX21dDNVuuzL7n1OXqM"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">287 kW (390 hp) at 7500 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">950 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">280 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>330 LM</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/330-lm/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBy8p0RlpsWoZvwTueAtNBM -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBy8p0RlpsWoZvwTueAtNBM">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RIb7WNlpf9yBaR3lMXiA4p"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">228 kW (310 hp) at 7500 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">760 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">290 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>250 P</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/25"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RByx9ZOqwfNIh5482ZE5Wj6 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RByx9ZOqwfNIh5482ZE5Wj6">
+        <rdfs:label>103 kW (140 hp) at 6600 rpm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC1ukmf1GDFvVy1PfX2cxfZ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC1ukmf1GDFvVy1PfX2cxfZ">
+        <rdfs:label>250 kW (340 hp) at 7000 rpm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC345A0YIUDqHTXdguVJcNG -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC345A0YIUDqHTXdguVJcNG">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDcIzYtRrSA3QuDbefVR0oV"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/RD0i0LMxQND4N4DUmGNjlL2"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/RB4vx5YmknGlVn2kEIwaOWm"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">176 kW (240 hp) at 7000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1100 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">252 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>250 California</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/250-california/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC76YRQIZyzFoKQtbiz0EXJ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC76YRQIZyzFoKQtbiz0EXJ">
+        <rdfs:label>162 kW (220 hp) at 7000 rpm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCCaCvWnmZ00oeSgV1mIj9l -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCCaCvWnmZ00oeSgV1mIj9l">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDT7j3twmZOKLwFhHm3HBXq"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">199 kW (270 hp) at 8000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">590 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">270 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>246 SP</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/246-sp/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCEj3k4LR7ufNUMMtJqeXuK -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCEj3k4LR7ufNUMMtJqeXuK">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBdo9S0uzHs9DFYH2qzfNh2"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">143 kW (195 hp) at 7200 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">250 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>Dino 196 S</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/dino-196-s/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCGQyKB7r4DYhykuJ4XN60 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCGQyKB7r4DYhykuJ4XN60">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDTSHW0ttyhjOzOiS8nuZPZ"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/Re6CAiNRScChFMFS8kqBcN"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R8K6NR32csl38rnz05XI4S7"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">147 (200 hp) at 5000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1200 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">186 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>342 Amerika</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/342-america/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCNYlK5f44CakXz8isiTkLa -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCNYlK5f44CakXz8isiTkLa">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R86mYQKVN0GVbZd8pRkqAwO"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243 kW (330 hp) at 6000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1030 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">280 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>375 Plus</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/375-plus/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCONhNLkoXVCrlksh8KJUEX -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCONhNLkoXVCrlksh8KJUEX">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDcIzYtRrSA3QuDbefVR0oV"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/RB4vx5YmknGlVn2kEIwaOWm"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">221 kW (300 hp) at 7200 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">800 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">270 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>250 Testa Rossa</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/250-testarossa/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCPFHATlI37A9pPAC42kVKp -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCPFHATlI37A9pPAC42kVKp">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCAs6q2DAjzSFLw9AzdSwmU"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/RD0i0LMxQND4N4DUmGNjlL2"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9QnieXFGnQ3gP0LbesXH4p"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">250 kW (340 hp) at 7000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1250 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">265 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>400 Superamerica</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/400-superamerica/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCXEp6m5NGs3mGhJHrBhkyz -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCXEp6m5NGs3mGhJHrBhkyz">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R86mYQKVN0GVbZd8pRkqAwO"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/RD0i0LMxQND4N4DUmGNjlL2"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/RB4vx5YmknGlVn2kEIwaOWm"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">162 kW (220 hp) at 7000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1050 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">230 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>250 GT Coupé</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/250-gt-coupe/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCeZ6WSqT4heE5PATOG6eT9 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCeZ6WSqT4heE5PATOG6eT9">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RpJNX21dDNVuuzL7n1OXqM"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">287 kW (390 hp) at 7500 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">820 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>330 TR</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/330-tr/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCpn2EQTeKFXktc9dWKEaNA -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCpn2EQTeKFXktc9dWKEaNA">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RpJNX21dDNVuuzL7n1OXqM"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">184 kW (250 hp) at 7400 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">640 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">290 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>248 SP</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/248-sp/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCqh17PZKwkxQmccCGi9N7R -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCqh17PZKwkxQmccCGi9N7R">
+        <rdfs:label>176 kW (240 hp) at 7200 rpm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCulWLUUlEEyHMIO8XGZ4LS -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCulWLUUlEEyHMIO8XGZ4LS">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RR6chWTNdsPCOiYGZgs2e9"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">206 kW (280 hp) at 6200 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">850 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>376 S</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/376-s/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCvOXEkaMj9lxxvXjxTLak9 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCvOXEkaMj9lxxvXjxTLak9">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RpJNX21dDNVuuzL7n1OXqM"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">154 kW (210 hp) at 7500 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">600 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">240 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>196 SP</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/196-sp/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX">
+        <rdfs:label>4-speed + reverse</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCyYKd1A9eiZxDpTkSPUqlC -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCyYKd1A9eiZxDpTkSPUqlC">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9uPWdwfrV4HCqAXKX9NLuv"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/RB4vx5YmknGlVn2kEIwaOWm"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">165 kW (225 hp) at 6800 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">750 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">735 S</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/735-s/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RD0ZjINek5TVZw84IBUPHVH -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RD0ZjINek5TVZw84IBUPHVH">
+        <rdfs:label>191 kW (260 hp) at 6000 rpm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RD0i0LMxQND4N4DUmGNjlL2 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RD0i0LMxQND4N4DUmGNjlL2">
+        <rdfs:label>GT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDBGoxmgZ96aI4FIrp18Aoh -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDBGoxmgZ96aI4FIrp18Aoh">
+        <rdfs:label>multi-plate (three clutch plates)</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDJ22eot0QN3dotwerjG6nS -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDJ22eot0QN3dotwerjG6nS">
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI xml:lang="tr">900 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm xml:lang="tr">289 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label xml:lang="tr">375 MM</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDJh0WGRQj0TJgnCUclQ7P7 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDJh0WGRQj0TJgnCUclQ7P7">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCAs6q2DAjzSFLw9AzdSwmU"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/RD0i0LMxQND4N4DUmGNjlL2"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9QnieXFGnQ3gP0LbesXH4p"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">176 kW (240 hp) at 7000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1280 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">230 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>250 GT 2+2</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/250-gt-22/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDPkREh4qgXaYWlURc8d9Hk -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDPkREh4qgXaYWlURc8d9Hk">
+        <rdfs:label>154 kW (210 hp) at 7200 rpm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDlg5qKZkWSK7CDfJVq8ObS -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDlg5qKZkWSK7CDfJVq8ObS">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDcIzYtRrSA3QuDbefVR0oV"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/RD0i0LMxQND4N4DUmGNjlL2"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/RB4vx5YmknGlVn2kEIwaOWm"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">176 kW (240 hp) at 7000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1050 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">252 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>250 GT Cabriolet</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/250-gt-cabriolet/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDmr3y6mYxGjqozijlQ5o4Z -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDmr3y6mYxGjqozijlQ5o4Z">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RIb7WNlpf9yBaR3lMXiA4p"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">272 kW (370 hp) at 7200 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">785 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>330 P</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/330-p/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDt6LO1cf6O99H4Fw4oimpx -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDt6LO1cf6O99H4Fw4oimpx">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RB1ogBI78bcS5c0kc79qsAT"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">199 kW (270 hp) at 7200 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">850 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">240 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>275 S</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/275-s/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDuUfog0fHZlfPHhmZoVLTK -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDuUfog0fHZlfPHhmZoVLTK">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDcIzYtRrSA3QuDbefVR0oV"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243 kW (330 hp) at 8000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>290 S</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/290-s/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDvdYmHpCyUIZUIsTO56Pdy -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDvdYmHpCyUIZUIsTO56Pdy">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBdo9S0uzHs9DFYH2qzfNh2"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">235 kW (320 hp) at 8400 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">750 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">280 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>312 S</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/312-s/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDyecoHUJeD6ZYoJUxSG9Ec -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDyecoHUJeD6ZYoJUxSG9Ec">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RR6chWTNdsPCOiYGZgs2e9"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">206 kW (280 hp) at 6000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>857 S</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/857-s/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RLpfRbzD4yAzdMRa7h9GZx -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RLpfRbzD4yAzdMRa7h9GZx">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7xHV6pTLTclGSe9lhOg3bm"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/RD0i0LMxQND4N4DUmGNjlL2"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/RDBGoxmgZ96aI4FIrp18Aoh"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">250 kW (340 hp) at 6000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1200 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">262 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>410 Superamerica</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/410-superamerica/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RLyMDJOrgb0hx9BxIInlcd -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RLyMDJOrgb0hx9BxIInlcd">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBYhOATUbcfcoDSPOyXdRUk"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9QnieXFGnQ3gP0LbesXH4p"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103 kW (140 hp) at 6600 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">650 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">220 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>166 MM</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/166-mm/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RNn1PdtT0oJ5jStLq9UxoH -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RNn1PdtT0oJ5jStLq9UxoH">
+        <rdfs:label>81 kW (110 hp) at 6000 rpm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RO4pz2DSC6cAvwJt7KTtUd -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RO4pz2DSC6cAvwJt7KTtUd">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBYhOATUbcfcoDSPOyXdRUk"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/RNn1PdtT0oJ5jStLq9UxoH"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">81 kW (110 hp) at 6000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">800 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">170 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>166 S</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/166-s/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RT9TjlVJif2Ew1R7wzYZ7J -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RT9TjlVJif2Ew1R7wzYZ7J">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8krb4CVUsGYpFBolIynrCt"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/RD0i0LMxQND4N4DUmGNjlL2"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9QnieXFGnQ3gP0LbesXH4p"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">206 kW (280 hp) at 7000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">960 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">268 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>250 GT BERLINETTA PASSO CORTO</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/250-gt-berlinetta-passo-corto/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RTFRotQQOgq6VexFDDcaer -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RTFRotQQOgq6VexFDDcaer">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RB1ogBI78bcS5c0kc79qsAT"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/Re6CAiNRScChFMFS8kqBcN"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9QnieXFGnQ3gP0LbesXH4p"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">96 kW (130 hp) at 6000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">950 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">180 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">195 Inter</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/195-inter/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RTrn7manqgL2dIKoyrji7c -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RTrn7manqgL2dIKoyrji7c">
+        <rdfs:label>147 (200 hp) at 5000 rpm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Re6CAiNRScChFMFS8kqBcN -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Re6CAiNRScChFMFS8kqBcN">
+        <rdfs:label>GT</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RfOxLWuCYjAaV186SMOppf -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RfOxLWuCYjAaV186SMOppf">
+        <rdfs:label>165 kW (225 hp) at 6800 rpm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rlb3jXwUMFHNaPNIVNXIyU -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Rlb3jXwUMFHNaPNIVNXIyU">
+        <rdfs:label>92 kW (125 hp) at 6500 rpm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RpbBak34PgpMN6b21Z7vOm -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RpbBak34PgpMN6b21Z7vOm">
+        <rdfs:label>147 kW (200 hp) at 6300 rpm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RsFbHSy7AJp5EHfmwcUDS6 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RsFbHSy7AJp5EHfmwcUDS6">
+        <rdfs:label>66 kW (90 hp) at 5,600 rpm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RsjNGIoE37E88wcGCL554a -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RsjNGIoE37E88wcGCL554a">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBYhOATUbcfcoDSPOyXdRUk"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9QnieXFGnQ3gP0LbesXH4p"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">96 kW (130 hp) at 6500 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">630 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">215 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">166 Inter Sport</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/166-inter-sport/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RuCUtJnrn4YH14oxAcG2KH -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RuCUtJnrn4YH14oxAcG2KH">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7xHV6pTLTclGSe9lhOg3bm"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/RB4vx5YmknGlVn2kEIwaOWm"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">132 kW (180 hp) at 7000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">680 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">245 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>500 TR</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/500-tr/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RvhundFcz2VVezfPVpfYuV -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RvhundFcz2VVezfPVpfYuV">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R86mYQKVN0GVbZd8pRkqAwO"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/RB4vx5YmknGlVn2kEIwaOWm"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">191 kW (260 hp) at 6000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">760 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">264 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>250 Monza</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/250-monza/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RwQqnBNa5wkfGtT9obNfkH -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RwQqnBNa5wkfGtT9obNfkH">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RIb7WNlpf9yBaR3lMXiA4p"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/R8X7a67VGfvAA9VrfU5LzYE"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9QnieXFGnQ3gP0LbesXH4p"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">235 kW (320 hp) at 7500 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">820 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">287 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label>250 LM</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/250-lm/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RwxjLkk8JmvnpKZM1mHU56 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RwxjLkk8JmvnpKZM1mHU56">
+        <rdfs:label>110 kW (150 hp) at 6500 rpm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RxGIt61GZAt6A6wc8Fbxnj -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RxGIt61GZAt6A6wc8Fbxnj">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9uPWdwfrV4HCqAXKX9NLuv"/>
+        <webprotege:R7HeNoprAcJabJlgmdTPVPa rdf:resource="http://webprotege.stanford.edu/R9Oek375XqwTbX9MHTz4EBO"/>
+        <webprotege:R8DmckGFozxEw0My7mCbHkx rdf:resource="http://webprotege.stanford.edu/RCxAdC3Wal9JflpmOfXwzFX"/>
+        <webprotege:R8db8dutnrFKj2cED9dcgWC rdf:resource="http://webprotege.stanford.edu/R9rddeyC49e0XW6rLlz4Wy"/>
+        <webprotege:R6OveY3PPSsCv2Sx9aHM3x rdf:datatype="http://www.w3.org/2001/XMLSchema#string">162 kW (220 hp) at 7000 rpm</webprotege:R6OveY3PPSsCv2Sx9aHM3x>
+        <webprotege:R8F19sPLVcuy2KwsGM6HZZI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">730 kg</webprotege:R8F19sPLVcuy2KwsGM6HZZI>
+        <webprotege:R9lZoYchBCuJYSBri1KHsm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">240 km/h</webprotege:R9lZoYchBCuJYSBri1KHsm>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">625 TF</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://auto.ferrari.com/en_EN/sports-cars-models/past-models/625-tf/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RxOr0piIKThXuk0iHWWjcP -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RxOr0piIKThXuk0iHWWjcP">
+        <rdfs:label>221 kW (300 hp) at 6300 rpm</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.3.1) https://github.com/owlcs/owlapi -->
+
